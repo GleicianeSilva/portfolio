@@ -6,4 +6,5 @@
 
 - 👷🏻‍♀️ Formada em Engenharia da Computação e Inteligência Analítica e Ciência de Dados
 
-<div align="center" style="display: inline_block"></div>
+</div>
+</br>
