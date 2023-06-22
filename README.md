@@ -3,7 +3,7 @@
 </div>
 
 </br>
-<div>
-- 👷🏻‍♀️ Formada em Engenharia da Computação e Inteligência Analítica e Ciência de Dados
+<div align="justify">
+- 👷🏻‍♀️ Graduada em Engenharia da Computação e Pós Graduada em Inteligência Analítica e Ciência de Dados
 </div>
 </br>
